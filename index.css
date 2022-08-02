@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body, html {
+    background-color: #121212;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: 'VT323', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.slide-1 {
+    position: relative;
+    background-color: #121212;
+    color: white;
+}
+
+.header-text a {
+    color: white;
+}
+
+.header-text a:hover {
+    color:red;
+}
+
+.nav-spacing {
+    margin-bottom: 2em;
+}
+
+
+.h1-veci {
+    font-size: 5rem;
+}
+
+.slide-2 {
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
